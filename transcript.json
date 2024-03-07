@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "Alice",
+    "text": "Good morning everyone, thanks for joining today's meeting."
+  },
+  {
+    "speaker": "Bob",
+    "text": "Morning, Alice. What's on the agenda for today?"
+  },
+  {
+    "speaker": "Alice",
+    "text": "We'll be discussing the progress on the new website redesign project."
+  },
+  {
+    "speaker": "Charlie",
+    "text": "I've completed the initial wireframes and sent them out for feedback."
+  },
+  {
+    "speaker": "Alice",
+    "text": "Great job, Charlie. Any initial thoughts from the team?"
+  },
+  {
+    "speaker": "David",
+    "text": "I like the direction you're taking with the layout. It seems more intuitive."
+  },
+  {
+    "speaker": "Eve",
+    "text": "I agree. The user flow seems smoother compared to the current design."
+  },
+  {
+    "speaker": "Alice",
+    "text": "That's fantastic to hear. Let's make sure to incorporate this feedback into the next iteration."
+  },
+  {
+    "speaker": "Bob",
+    "text": "Do we have a timeline for when we'll have a prototype ready for testing?"
+  },
+  {
+    "speaker": "Alice",
+    "text": "We're aiming to have a clickable prototype ready by the end of next week."
+  }
+]
